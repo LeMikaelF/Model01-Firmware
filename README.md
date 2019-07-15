@@ -1,3 +1,5 @@
+_My personal Keyboardio setup, optimized for the French ergonomic bépo layout._
+
 # Keyboardio Model 01 Firmware
 
 _The default firmware for the Keyboardio Model 01_
